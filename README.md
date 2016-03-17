@@ -1,6 +1,6 @@
 ﻿
-目录结构
-
+#目录结构
+<pre>
 .
 ├── README.md           
 ├── dist                      // 项目build目录
@@ -23,7 +23,7 @@
 │   ├── images               // 图片资源
 │   ├── upload               // 上传文件路径
 │   └── index.html
-
+</pre>
 NodeJs+MongoDB+jQuery
 ================================================
 
