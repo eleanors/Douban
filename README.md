@@ -1,5 +1,5 @@
 ﻿
-#目录结构
+###目录结构
 <pre>
 .
 ├── README.md           
@@ -54,7 +54,6 @@ NodeJs+MongoDB+jQuery
   * 列表分页处理;
   * 电影音乐海报图片上传;
   * 可同步豆瓣电影音乐数据方便新数据添加;
-  * 单元测试;
 
 Node版本:
 -------
@@ -102,11 +101,3 @@ Node版本:
 - 分类页:localhost:3000/admin/music/musicCategory/new
 - 热门榜单录入页:localhost:3000/admin/music/programme/new
 - 热门榜单列表页:localhost:3000/admin/music/programme/list
-
-
-
-
-
-
-
-
